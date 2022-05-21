@@ -7,7 +7,7 @@ import { ITreasury, IUniswapV2Factory, IUniswapV2Router01 } from "./ERC20.sol";
 ///         The TaxToken will generate taxes on transfer() and transferFrom() calls for non-whitelisted addresses.
 ///         The Admin can specify the tax fee in basis points for buys, sells, and transfers.
 ///         The TaxToken will forward all taxes generated to a Treasury
-contract TaxToken {
+contract AndroMetaToken {
  
     // ---------------
     // State Variables
